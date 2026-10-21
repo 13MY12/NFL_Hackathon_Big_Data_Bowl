@@ -1,0 +1,5 @@
+indice,seuil,choix,pct_actions_eleve,n_wr_qualifies,stabilite,detail_voisines
+V1,4,intention,30.0,104,INSTABLE,"V1 ≥3 (102 WR) : lisibles 1/3, imprévisibles 0/3 en commun | V1 ≥5 (17 WR) : lisibles 0/3, imprévisibles 0/3 en commun | V2 ≥4 (65 WR) : lisibles 2/3, imprévisibles 0/3 en commun"
+V1,4,type_route,30.0,115,INSTABLE,"V1 ≥3 (111 WR) : lisibles 0/3, imprévisibles 0/3 en commun | V1 ≥5 (27 WR) : lisibles 0/3, imprévisibles 0/3 en commun | V2 ≥4 (76 WR) : lisibles 1/3, imprévisibles 0/3 en commun"
+V2,3,intention,33.0,113,INSTABLE,"V1 ≥3 (102 WR) : lisibles 0/3, imprévisibles 0/3 en commun | V2 ≥4 (65 WR) : lisibles 1/3, imprévisibles 1/3 en commun"
+V2,3,type_route,33.0,120,INSTABLE,"V1 ≥3 (111 WR) : lisibles 0/3, imprévisibles 0/3 en commun | V2 ≥4 (76 WR) : lisibles 1/3, imprévisibles 0/3 en commun"

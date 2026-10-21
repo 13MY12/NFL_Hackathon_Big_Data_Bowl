@@ -1,0 +1,6 @@
+data/
+outputs_v1/
+__pycache__/
+*.pyc
+.venv/
+outputs/trajectoires.csv

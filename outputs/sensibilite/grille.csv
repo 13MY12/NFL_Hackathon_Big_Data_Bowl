@@ -1,0 +1,13 @@
+indice,seuil,choix,pct_actions_eleve,n_wr_qualifies,n_p05,n_attendus_hasard,n_q10,n_q20,top3_lisibles,top3_imprevisibles
+V1,3,intention,68.2,102,5,5.1,0,0,"Ja'Marr Chase (+17.8), Tyler Lockett (+17.8), Dyami Brown (+17.0)","Adam Humphries (-18.4), Kendall Hinton (-17.3), Brandon Aiyuk (-15.3)"
+V1,3,type_route,68.2,111,4,5.6,0,1,"Amari Cooper (+16.4), Tyreek Hill (+15.4), Mike Evans (+13.9)","Justin Jefferson (-23.6), Van Jefferson (-18.4), JuJu Smith-Schuster (-16.1)"
+V1,4,intention,30.0,104,10,5.2,0,0,"Brandon Aiyuk (+32.5), Dyami Brown (+27.0), Emmanuel Sanders (+21.2)","Kenny Stills (-33.8), Tajae Sharpe (-27.3), Gabe Davis (-27.2)"
+V1,4,type_route,30.0,115,5,5.8,0,0,"Brandon Aiyuk (+17.0), CeeDee Lamb (+16.6), Ashton Dulin (+16.1)","Dyami Brown (-19.8), Quintez Cephus (-18.0), Zay Jones (-17.5)"
+V1,5,intention,8.0,17,2,0.9,0,0,"Justin Jefferson (+18.1), Calvin Ridley (+17.5), Mike Williams (+10.4)","Josh Reynolds (-33.8), Nick Westbrook-Ikhine (-23.7), Randall Cobb (-8.0)"
+V1,5,type_route,8.0,27,0,1.4,0,0,"Antonio Brown (+21.5), Cedrick Wilson (+15.1), Odell Beckham (+13.6)","Keenan Allen (-15.5), Olamide Zaccheaus (-15.5), Michael Pittman (-14.2)"
+V2,3,intention,33.0,113,10,5.7,0,0,"Josh Palmer (+29.0), Brandon Aiyuk (+27.3), Kenny Golladay (+25.7)","Jalen Reagor (-28.5), Josh Reynolds (-24.9), Tavon Austin (-24.3)"
+V2,3,type_route,33.0,120,7,6.0,0,2,"Emmanuel Sanders (+20.9), Russell Gage (+18.5), Bryan Edwards (+17.2)","Jarvis Landry (-24.0), Parris Campbell (-18.2), Rondale Moore (-16.5)"
+V2,4,intention,16.9,65,2,3.2,0,0,"Brandon Aiyuk (+27.6), Emmanuel Sanders (+23.7), Marquise Brown (+19.2)","Josh Reynolds (-18.9), CeeDee Lamb (-15.9), Michael Pittman (-15.8)"
+V2,4,type_route,16.9,76,2,3.8,0,0,"Antonio Brown (+20.2), Brandon Aiyuk (+16.9), Emmanuel Sanders (+16.4)","Darius Slayton (-15.8), Tyler Lockett (-15.6), Calvin Ridley (-15.3)"
+V2,5,intention,5.8,8,1,0.4,0,0,"Adam Thielen (+11.8), Justin Jefferson (+9.8), Mike Williams (+9.8)","Nick Westbrook-Ikhine (-26.8), Chester Rogers (-13.1), K.J. Osborn (-4.7)"
+V2,5,type_route,5.8,11,0,0.6,0,0,"CeeDee Lamb (+14.4), Adam Thielen (+9.6), Mike Williams (+7.4)","Keenan Allen (-15.3), Terry McLaurin (-9.9), Chester Rogers (-7.2)"

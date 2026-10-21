@@ -1,0 +1,25 @@
+nom,équipe,n normal,n élevé,habitude,taux normal,taux élevé,score (pts),p-value,q-value,"significatif (p<0,05)"
+CeeDee Lamb,DAL,128,95,Out,16.4,30.5,15.2,0.011,0.462,True
+Mike Evans,TB,183,86,Out,24.6,37.2,13.7,0.041,0.573,True
+Ja'Marr Chase,CIN,131,88,Out,21.4,31.8,11.5,0.034,0.571,True
+Amari Cooper,DAL,123,93,Out,25.2,35.5,11.4,0.138,0.8,False
+Marquise Brown,BAL,135,50,Out,20.0,28.0,9.1,0.118,0.8,False
+Diontae Johnson,PIT,121,43,Out,34.7,41.9,8.2,0.482,0.963,False
+Justin Jefferson,MIN,101,125,Out,26.7,32.0,6.4,0.447,0.963,False
+D.J. Moore,CAR,172,69,Out,20.9,26.1,6.3,0.426,0.963,False
+Stefon Diggs,BUF,146,54,Out,19.9,22.2,3.5,0.701,1.0,False
+Brandin Cooks,HOU,174,34,Out,21.8,23.5,2.8,1.0,1.0,False
+Adam Thielen,MIN,103,130,Out,29.1,30.8,2.7,0.893,1.0,False
+Chris Godwin,TB,188,85,Out,30.9,31.8,2.0,0.898,1.0,False
+A.J. Brown,TEN,113,49,Out,26.5,26.5,1.1,1.0,1.0,False
+Keenan Allen,LAC,138,93,Out,25.4,24.7,0.5,1.0,1.0,False
+Jaylen Waddle,MIA,158,77,Out,25.9,23.4,-1.5,0.76,1.0,False
+DK Metcalf,SEA,110,62,In/Dig,18.2,14.5,-2.6,0.693,1.0,False
+Terry McLaurin,WAS,164,83,In/Dig,19.5,15.7,-2.8,1.0,1.0,False
+Cooper Kupp,LA,174,54,Out,23.6,18.5,-3.9,0.961,1.0,False
+Tyreek Hill,KC,181,52,In/Dig,24.3,17.3,-5.9,0.333,0.942,False
+Deebo Samuel,SF,125,50,Out,19.2,12.0,-6.1,0.735,1.0,False
+Hunter Renfrow,LV,101,68,Flat/Screen,23.8,16.2,-6.5,0.621,1.0,False
+Mike Williams,LAC,114,81,Out,24.6,16.0,-7.4,0.335,0.942,False
+Davante Adams,GB,110,55,Out,25.5,16.4,-8.0,0.371,0.942,False
+Tyler Lockett,SEA,121,62,Out,27.3,16.1,-10.0,0.096,0.8,False
